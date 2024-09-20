@@ -6,7 +6,7 @@ omegaconf >=2.1,<3.0
 pyannote.core >= 5.0.0
 pyannote.database >= 5.0.1
 pyannote.metrics >= 3.2
-pyannote.pipeline >= 3.0.1
+pyannote.pipeline @ git+https://github.com/OoiHS/pyannote-pipeline@83050ef55d97b6ba6a178a5b0395ab43ba3a95be
 pytorch_metric_learning >= 2.1.0
 rich >= 12.0.0
 semver >= 3.0.0
